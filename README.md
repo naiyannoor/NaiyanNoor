@@ -48,6 +48,7 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 <img align="center" alt="Coding" width="830"  
    src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/cer2.jpg">
    
+<img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer3.jpg">
 <br>
 <br>
