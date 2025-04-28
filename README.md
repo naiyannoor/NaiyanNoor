@@ -43,12 +43,12 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
    src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer5.png">
 <img align="center" alt="Coding" width
 ="830" 
-   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer9.png">
+   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
    
 <img align="center" alt="Coding" width="830"  
-   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/cer1.jpg">
+   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">
    
-<img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
+<img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer9.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer8.png">
 <br>
 <br>
