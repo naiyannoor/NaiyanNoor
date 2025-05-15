@@ -156,6 +156,22 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
     <img alt="NaiyanNoor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NaiyanNoor&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📈 User Statistics
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyannoor">
+          <img width="1080" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyannoor&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+ 
+</table>
+
+
 ## 🐍 Watch snake eating my github contributions
 ![snake gif](https://github.com/Naiyannoor/Naiyannoor/blob/output/github-contribution-grid-snake.svg)
 
