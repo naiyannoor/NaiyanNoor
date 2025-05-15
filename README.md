@@ -35,6 +35,7 @@ h3>
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 - ⚡  **IBM BADGES 📚**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
 [<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100">](https://www.credly.com/badges/2e289e28-525a-4473-9ea0-9e47a02b656c)
