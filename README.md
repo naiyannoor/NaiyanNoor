@@ -27,9 +27,7 @@ h3>
 <p>BSc in Computer Science Engineering</p>
 
 - 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor
-](https://www.credly.com/users/naiyan-noor
-
-)
+]
  
 - 💬 Ask me about **Software Development**
 
