@@ -36,7 +36,7 @@ h3>
 
 - ⚡ Fun fact **Always Want To Learn More 📚**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiyannoor" alt="tonmoysarkerbd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiyannoor" alt="naiyannoor" /></a> </p>
 
 ### ⚙️ &nbsp;Certificates
 
