@@ -31,7 +31,7 @@ h3>
 
 )
  
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to Connect with me **
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
