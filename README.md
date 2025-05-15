@@ -29,6 +29,7 @@ h3>
 - 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor
 ]
  
+
 - 💬 Ask me about **Software Development**
 
 - 📫 How to Connect with me **
@@ -57,11 +58,10 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob" width="100">](https://www.credly.com/badges/de25883f-d811-463f-85dc-66d003d4f78f)
 
 ### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://github-trophies.vercel.app/?username=naiyannoor" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=naiyannoor&theme=radical&margin-w=4&margin-h=4">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1160 src="https://github-profile-trophy.vercel.app/?username=naiyannoor&column=10&theme=gruvbox&no-frame=true"/>
 </a>
+
 
 ### ⚙️ &nbsp;Certificates
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
