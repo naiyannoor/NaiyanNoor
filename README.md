@@ -36,7 +36,7 @@ h3>
 - 📫 How to Connect with me **
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
-- ⚡ Fun fact **Always Want To Learn More 📚**
+- ⚡ Fun fact **IBM BADGES 📚**
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
 [<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100">](https://www.credly.com/badges/2e289e28-525a-4473-9ea0-9e47a02b656c)
@@ -46,7 +46,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 [<img src="https://images.credly.com/images/1746bbfd-9e02-4bf7-97a0-925bfb63baa3/image.png" width="100">](https://www.credly.com/badges/30ae1cf5-b179-485a-a47f-fd4a88e8a395)
 [<img src="https://images.credly.com/images/304c123a-a6ab-47c0-b42a-d19b93c3ee4d/image.png" width="100">](https://www.credly.com/badges/d3befdbf-1a06-4107-bb1d-122291bf0ce2)
-[<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/c6d70da18e9c6190)
+[<img src="https://images.credly.com/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="100">](https://www.credly.com/badges/a1c028cf-e17e-4bbf-8ae6-18a22a7d01cf)
 [<img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100">](https://www.credly.com/badges/b1ce341d-0d74-40cc-abf4-b5ca2cabed93)
 [<img src="https://images.credly.com/size/680x680/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="100">](https://www.credly.com/badges/749bf565-dd4b-41bb-bc1e-04cc8a582832)
 [<img src="https://images.credly.com/size/680x680/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png" width="100">](https://www.credly.com/badges/90bef0cb-fe99-4b84-bf03-1323b1980b37)
