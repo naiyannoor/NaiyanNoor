@@ -43,8 +43,9 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100">](https://www.credly.com/badges/c89dd326-71ec-4d3b-953b-3f4a2346fce2)
 [<img src="https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="100">](https://www.credly.com/badges/43508b13-d3b9-4326-8738-302430a40b7e)
 [<img src="https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="100">](https://www.credly.com/badges/4435b2f4-6fff-47fb-adaf-99df4323c702)
+
 [<img src="https://images.credly.com/images/1746bbfd-9e02-4bf7-97a0-925bfb63baa3/image.png" width="100">](https://www.credly.com/badges/30ae1cf5-b179-485a-a47f-fd4a88e8a395)
-[<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/249607c0f4516eac)
+[<img src="https://images.credly.com/images/304c123a-a6ab-47c0-b42a-d19b93c3ee4d/image.png" width="100">](https://www.credly.com/badges/d3befdbf-1a06-4107-bb1d-122291bf0ce2)
 [<img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">](https://learn.microsoft.com/en-us/users/chungnguyen1120/credentials/c6d70da18e9c6190)
 [<img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100">](https://www.credly.com/badges/b1ce341d-0d74-40cc-abf4-b5ca2cabed93)
 [<img src="https://images.credly.com/size/680x680/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="100">](https://www.credly.com/badges/749bf565-dd4b-41bb-bc1e-04cc8a582832)
