@@ -38,7 +38,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 - ⚡ Fun fact **Always Want To Learn More 📚**
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
-[<img src="https://images.credly.com/size/680x680/images/d93f9c40-fb19-4aae-ac34-4e068d391115/blob" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
+[<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100">](https://www.credly.com/badges/2e289e28-525a-4473-9ea0-9e47a02b656c)
 [<img src="https://images.credly.com/size/680x680/images/caf78f37-b800-45b8-9822-7b5d35bbadd6/blob" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
 [<img src="https://images.credly.com/size/680x680/images/5ed0eac3-8986-4fab-a16b-cab70d4a920e/blob" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
 [<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
