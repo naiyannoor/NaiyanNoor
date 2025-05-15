@@ -54,6 +54,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/de4c98f9-f2bf-4d9d-ae51-f379e8614287/image.png" width="100">](https://www.credly.com/badges/3c94d511-7380-4aa2-9715-8c0522a105f1)
 [<img src="https://images.credly.com/size/340x340/images/73f8e523-ba86-449c-b08c-7fe100804525/edX_20Cybersecurity_20Basics_20V2.png" width="100">](https://www.credly.com/badges/7b2df42b-1d0b-496f-b71d-36bb689749ca)
 [<img src="https://images.credly.com/images/31161e97-2afe-4b28-9a63-0fc788de0f69/blob" width="100">](https://www.credly.com/badges/693956c7-01d9-433e-bac7-31cee50029be)
+[<img src="https://images.credly.com/images/d6fd25e3-6a23-48b2-94ab-d2961375555d/image.png" width="100">](https://www.credly.com/badges/0367c5bb-bbcf-4eed-ab0e-65da60d0c905)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiyannoor" alt="naiyannoor" /></a> </p>
 
