@@ -55,7 +55,12 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/d6fd25e3-6a23-48b2-94ab-d2961375555d/image.png" width="100">](https://www.credly.com/badges/0367c5bb-bbcf-4eed-ab0e-65da60d0c905)
 [<img src="https://images.credly.com/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob" width="100">](https://www.credly.com/badges/de25883f-d811-463f-85dc-66d003d4f78f)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiyannoor" alt="naiyannoor" /></a> </p>
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=lucthienphong1120naiyannoor" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=naiyannoor&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ### ⚙️ &nbsp;Certificates
 
