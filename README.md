@@ -48,8 +48,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="100">](https://www.credly.com/badges/a1c028cf-e17e-4bbf-8ae6-18a22a7d01cf)
 [<img src="https://images.credly.com/images/e81c74c6-837a-41ca-86bf-4ee9248ffe64/image.png" width="100">](https://www.credly.com/badges/4a64280d-d8fc-4f4a-990d-1f2be05c8f14)
 [<img src="https://images.credly.com/size/340x340/images/1140252e-c1e0-485f-b0bb-efe38c42f7e7/image.png" width="100">](https://www.credly.com/badges/b9ad1d56-50ab-483b-bb5a-dcac41cc1257)
-[<img src="https://images.credly.com/images/a4cf6d1a-3c64-4468-84cd-fae4e8c14279/image.png" width="100">](https://www.credly.com/badges/1dfc2a2f-9d26-4e5e-8708-8f2b724f3c6b
-)
+[<img src="https://images.credly.com/images/a4cf6d1a-3c64-4468-84cd-fae4e8c14279/image.png" width="100">](https://www.credly.com/badges/1dfc2a2f-9d26-4e5e-8708-8f2b724f3c6b)
 [<img src="https://images.credly.com/images/8f30b040-8aab-4dee-a8d9-62c88c8541a9/image.png" width="100">](https://www.credly.com/badges/e6426cec-8480-4763-b548-2b5998bf22de)
 [<img src="https://images.credly.com/images/78186814-c80e-4d45-a30e-04b0a2850345/image.png" width="100">](https://www.credly.com/badges/149b3271-bc9c-4d59-95b4-790989cbdfd2)
 [<img src="https://images.credly.com/images/de4c98f9-f2bf-4d9d-ae51-f379e8614287/image.png" width="100">](https://www.credly.com/badges/3c94d511-7380-4aa2-9715-8c0522a105f1)
@@ -140,12 +139,14 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 <br/>
 
-## ⚙️ &nbsp;GitHub Analytics & Programming Languages
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/NaiyanNoor">
   <img width="960" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naiyannoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="960" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naiyannoor&layout=compact&langs_count=20&theme=algolia"/>
+
+ ## 💬 Programming Languages
+ <img width="960" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naiyannoor&layout=compact&langs_count=20&theme=algolia"/>
 </a>
 </p>
 
@@ -189,7 +190,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 
 
-## 📈 Github Activity Graph
+## 📊 Github Activity Graph
 ![Naiyan Noor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naiyannoor&custom_title=Naiyan%20Noor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## Achievements:
