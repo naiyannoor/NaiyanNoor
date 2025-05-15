@@ -52,7 +52,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/a4cf6d1a-3c64-4468-84cd-fae4e8c14279/image.png" width="100">](https://www.credly.com/badges/1dfc2a2f-9d26-4e5e-8708-8f2b724f3c6b)
 [<img src="https://images.credly.com/images/8f30b040-8aab-4dee-a8d9-62c88c8541a9/image.png" width="100">](https://www.credly.com/badges/e6426cec-8480-4763-b548-2b5998bf22de)
 [<img src="https://images.credly.com/images/78186814-c80e-4d45-a30e-04b0a2850345/image.png" width="100">](https://www.credly.com/badges/149b3271-bc9c-4d59-95b4-790989cbdfd2)
-[<img src="https://images.credly.com/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob" width="100">](https://www.credly.com/badges/69b9ae89-06be-4270-afd0-d2be32a8b294)
+[<img src="https://images.credly.com/images/de4c98f9-f2bf-4d9d-ae51-f379e8614287/image.png" width="100">](https://www.credly.com/badges/3c94d511-7380-4aa2-9715-8c0522a105f1)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiyannoor" alt="naiyannoor" /></a> </p>
 
