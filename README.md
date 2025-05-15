@@ -143,10 +143,13 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 <p align="center">
 <a href="https://github.com/NaiyanNoor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaiyanNoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaiyanNoor&layout=compact&langs_count=20&theme=algolia"/>
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaiyanNoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaiyanNoor&layout=compact&langs_count=20&theme=algolia"/>
 </a>
 </p>
+
+
+
 
 ## ☄️ Github Streaks:
 
