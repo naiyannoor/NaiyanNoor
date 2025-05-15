@@ -43,6 +43,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100">](https://www.credly.com/badges/c89dd326-71ec-4d3b-953b-3f4a2346fce2)
 [<img src="https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="100">](https://www.credly.com/badges/43508b13-d3b9-4326-8738-302430a40b7e)
 [<img src="https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="100">](https://www.credly.com/badges/4435b2f4-6fff-47fb-adaf-99df4323c702)
+
 [<img src="https://images.credly.com/images/1746bbfd-9e02-4bf7-97a0-925bfb63baa3/image.png" width="100">](https://www.credly.com/badges/30ae1cf5-b179-485a-a47f-fd4a88e8a395)
 [<img src="https://images.credly.com/images/304c123a-a6ab-47c0-b42a-d19b93c3ee4d/image.png" width="100">](https://www.credly.com/badges/d3befdbf-1a06-4107-bb1d-122291bf0ce2)
 [<img src="https://images.credly.com/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="100">](https://www.credly.com/badges/a1c028cf-e17e-4bbf-8ae6-18a22a7d01cf)
