@@ -36,14 +36,13 @@ h3>
 - 📫 How to Connect with me **
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
-- ⚡ Fun fact **IBM BADGES 📚**
+- ⚡  **IBM BADGES 📚**
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
 [<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100">](https://www.credly.com/badges/2e289e28-525a-4473-9ea0-9e47a02b656c)
 [<img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100">](https://www.credly.com/badges/c89dd326-71ec-4d3b-953b-3f4a2346fce2)
 [<img src="https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="100">](https://www.credly.com/badges/43508b13-d3b9-4326-8738-302430a40b7e)
 [<img src="https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="100">](https://www.credly.com/badges/4435b2f4-6fff-47fb-adaf-99df4323c702)
-
 [<img src="https://images.credly.com/images/1746bbfd-9e02-4bf7-97a0-925bfb63baa3/image.png" width="100">](https://www.credly.com/badges/30ae1cf5-b179-485a-a47f-fd4a88e8a395)
 [<img src="https://images.credly.com/images/304c123a-a6ab-47c0-b42a-d19b93c3ee4d/image.png" width="100">](https://www.credly.com/badges/d3befdbf-1a06-4107-bb1d-122291bf0ce2)
 [<img src="https://images.credly.com/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="100">](https://www.credly.com/badges/a1c028cf-e17e-4bbf-8ae6-18a22a7d01cf)
@@ -54,6 +53,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/78186814-c80e-4d45-a30e-04b0a2850345/image.png" width="100">](https://www.credly.com/badges/149b3271-bc9c-4d59-95b4-790989cbdfd2)
 [<img src="https://images.credly.com/images/de4c98f9-f2bf-4d9d-ae51-f379e8614287/image.png" width="100">](https://www.credly.com/badges/3c94d511-7380-4aa2-9715-8c0522a105f1)
 [<img src="https://images.credly.com/size/340x340/images/73f8e523-ba86-449c-b08c-7fe100804525/edX_20Cybersecurity_20Basics_20V2.png" width="100">](https://www.credly.com/badges/7b2df42b-1d0b-496f-b71d-36bb689749ca)
+[<img src="https://images.credly.com/images/31161e97-2afe-4b28-9a63-0fc788de0f69/blob" width="100">](https://www.credly.com/badges/693956c7-01d9-433e-bac7-31cee50029be)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiyannoor" alt="naiyannoor" /></a> </p>
 
