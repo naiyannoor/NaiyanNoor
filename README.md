@@ -50,7 +50,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/e81c74c6-837a-41ca-86bf-4ee9248ffe64/image.png" width="100">](https://www.credly.com/badges/4a64280d-d8fc-4f4a-990d-1f2be05c8f14)
 [<img src="https://images.credly.com/size/340x340/images/1140252e-c1e0-485f-b0bb-efe38c42f7e7/image.png" width="100">](https://www.credly.com/badges/b9ad1d56-50ab-483b-bb5a-dcac41cc1257)
 [<img src="https://images.credly.com/images/a4cf6d1a-3c64-4468-84cd-fae4e8c14279/image.png" width="100">](https://www.credly.com/badges/1dfc2a2f-9d26-4e5e-8708-8f2b724f3c6b)
-[<img src="https://images.credly.com/size/680x680/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png" width="100">](https://www.credly.com/badges/4ccbb8db-7371-4d6a-96dd-c2076fc6b761)
+[<img src="https://images.credly.com/images/8f30b040-8aab-4dee-a8d9-62c88c8541a9/image.png" width="100">](https://www.credly.com/badges/e6426cec-8480-4763-b548-2b5998bf22de)
 [<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="100">](https://www.credly.com/badges/b0c7f823-b7ae-4ff7-b865-0963bf27693f)
 [<img src="https://images.credly.com/images/82e8df94-e88e-4f3b-b247-8ca5f8a5b6d4/blob" width="100">](https://www.credly.com/badges/69b9ae89-06be-4270-afd0-d2be32a8b294)
 
