@@ -152,9 +152,15 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 ## ☄️ Github Streaks:
 
-<p align="center">
-    <img alt="NaiyanNoor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NaiyanNoor&theme=tokyonight&hide_border=true"/>
-</p>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=naiyannoor">
+          <img width="960" src="https://github-readme-streak-stats.herokuapp.com/?user=naiyannoor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
 
 ## 📈 User Statistics
 
@@ -163,7 +169,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyannoor">
-          <img width="1080" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyannoor&theme=dracula"/>
+          <img width="960" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyannoor&theme=dracula"/>
         </a>
       </td>
     </tr>
