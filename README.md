@@ -59,23 +59,15 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github-trophies.vercel.app/?username=lucthienphong1120naiyannoor" target="_blank">
+<a href="https://github-trophies.vercel.app/?username=naiyannoor" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=naiyannoor&theme=radical&margin-w=4&margin-h=4">
 </a>
 
 ### ⚙️ &nbsp;Certificates
-
-
- <img align="center" alt="Coding" width
-="830" 
-   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer5.png">
-<img align="center" alt="Coding" width
-="830" 
-   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
-   
-<img align="center" alt="Coding" width="830"  
-   src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">
-   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer5.png">
+<img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
+<img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">   
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer9.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer8.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer3.png">
