@@ -62,6 +62,8 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/size/340x340/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="100">](https://www.credly.com/badges/0cb9c1b0-16b0-4c70-b08e-ac7c3f88bd1c)
 [<img src="https://images.credly.com/size/340x340/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="100">](https://www.credly.com/badges/f8798453-73cf-4e30-b919-d8870cfc39ea)
 [<img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">](https://www.credly.com/badges/e2786860-a70c-4a2c-aab9-504df0d4f961)
+[<img src="https://images.credly.com/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="100">](https://www.credly.com/badges/67ae224f-95f3-49d1-9f0f-c4250e553f5e)
+[<img src="https://images.credly.com/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png" width="100">](https://www.credly.com/badges/8fc51832-b823-40f2-ae87-2c5f9991170c)
 
 ### 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
