@@ -66,12 +66,12 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 ### ⚙️ &nbsp;Certificates
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer5.png">
-<img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
 <img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer1.jpg">   
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer9.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer8.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer3.png">
 <img align="center" alt="Coding" width="830"  src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer10.png">
+<img align="center" alt="Coding" width="830" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Certificate/Cer7.png">
 <br>
 <br>
 
