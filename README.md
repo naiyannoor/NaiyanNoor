@@ -35,7 +35,7 @@ h3>
 - 📫 How to Connect with me **
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
-- ⚡  **IBM BADGES 📚**
+- ⚡  **MY BADGES 📚**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
@@ -56,6 +56,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/31161e97-2afe-4b28-9a63-0fc788de0f69/blob" width="100">](https://www.credly.com/badges/693956c7-01d9-433e-bac7-31cee50029be)
 [<img src="https://images.credly.com/images/d6fd25e3-6a23-48b2-94ab-d2961375555d/image.png" width="100">](https://www.credly.com/badges/0367c5bb-bbcf-4eed-ab0e-65da60d0c905)
 [<img src="https://images.credly.com/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob" width="100">](https://www.credly.com/badges/de25883f-d811-463f-85dc-66d003d4f78f)
+[<img src="https://images.credly.com/size/340x340/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">](https://www.credly.com/badges/4c49f665-8dbe-4c33-88a3-4c61fe77cf44)
 
 ### 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
