@@ -65,6 +65,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/size/340x340/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" width="100">](https://www.credly.com/badges/9928da9c-b710-48b4-a920-d0c1e2287545)
 [<img src="https://images.credly.com/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob" width="100">](https://www.credly.com/badges/de25883f-d811-463f-85dc-66d003d4f78f)
 [<img src="https://images.credly.com/size/680x680/images/745b7433-8c95-4978-87ed-a5b280fcb1aa/blob" width="100">](https://www.credly.com/badges/8db01ef2-977d-407e-80d1-2c062681538f)
+[<img src="https://images.credly.com/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" width="100">](https://www.credly.com/badges/50b6b809-70ac-49e6-bc50-269a8dd5032f)
 [<img src="https://images.credly.com/size/340x340/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="100">](https://www.credly.com/badges/5e82c26f-0e77-4ee4-957d-a76b4f7c0eae)
 [<img src="https://images.credly.com/size/340x340/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">](https://www.credly.com/badges/4c49f665-8dbe-4c33-88a3-4c61fe77cf44)
 [<img src="https://images.credly.com/size/340x340/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" width="100">](https://www.credly.com/badges/410ae230-dc56-4e3c-8c0c-5c1c6e50e955)
