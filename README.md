@@ -25,7 +25,7 @@ h3>
    
 <h5>Studied at Bangladesh Army University of Science and Technology -BAUST,Saidpur</h5>
 <p>BSc in Computer Science Engineering</p>
-
+ 
 - 📊 MY Data Science Badges on [https://www.credly.com/users/naiyan-noor
 ]
  
