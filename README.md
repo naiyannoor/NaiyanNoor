@@ -16,7 +16,7 @@
 A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></
 h3>
   
- 
+   
 <img align="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
 <br>
 
@@ -36,6 +36,7 @@ h3>
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 - ⚡  **MY BADGES 📚**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
