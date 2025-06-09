@@ -50,15 +50,13 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/711b1833-527f-44c1-bece-67c570e480b9/blob" width="100">](https://www.credly.com/badges/a1c028cf-e17e-4bbf-8ae6-18a22a7d01cf)
 [<img src="https://images.credly.com/images/e81c74c6-837a-41ca-86bf-4ee9248ffe64/image.png" width="100">](https://www.credly.com/badges/4a64280d-d8fc-4f4a-990d-1f2be05c8f14)
 [<img src="https://images.credly.com/size/340x340/images/1140252e-c1e0-485f-b0bb-efe38c42f7e7/image.png" width="100">](https://www.credly.com/badges/b9ad1d56-50ab-483b-bb5a-dcac41cc1257)
-[<img src="https://images.credly.com/size/340x340/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="100">](https://www.credly.com/badges/5c8c3b72-b7b7-4487-b10d-411750fa25b3
-)
+[<img src="https://images.credly.com/size/340x340/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="100">](https://www.credly.com/badges/5c8c3b72-b7b7-4487-b10d-411750fa25b3)
 [<img src="https://images.credly.com/images/17e0a22a-e676-485d-83c8-8537014eb5c8/blob" width="100">](https://www.credly.com/badges/b56d21f1-5bf8-4362-a75f-59ac6f0d32c2)
 [<img src="https://images.credly.com/images/a4cf6d1a-3c64-4468-84cd-fae4e8c14279/image.png" width="100">](https://www.credly.com/badges/1dfc2a2f-9d26-4e5e-8708-8f2b724f3c6b)
 [<img src="https://images.credly.com/images/8f30b040-8aab-4dee-a8d9-62c88c8541a9/image.png" width="100">](https://www.credly.com/badges/e6426cec-8480-4763-b548-2b5998bf22de)
 [<img src="https://images.credly.com/size/340x340/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="100">](https://www.credly.com/badges/b45d6d2c-ce08-4d83-ac26-cbf9089927b9)
 [<img src="https://images.credly.com/images/06cb0d8e-06f7-4f5e-9265-359e37008fcd/blob" width="100">](https://www.credly.com/badges/e27224ee-0028-4072-a593-7935d6f3262e)
-[
-<img src="https://images.credly.com/images/78186814-c80e-4d45-a30e-04b0a2850345/image.png" width="100">](https://www.credly.com/badges/149b3271-bc9c-4d59-95b4-790989cbdfd2)
+[<img src="https://images.credly.com/images/78186814-c80e-4d45-a30e-04b0a2850345/image.png" width="100">](https://www.credly.com/badges/149b3271-bc9c-4d59-95b4-790989cbdfd2)
 [<img src="https://images.credly.com/images/de4c98f9-f2bf-4d9d-ae51-f379e8614287/image.png" width="100">](https://www.credly.com/badges/3c94d511-7380-4aa2-9715-8c0522a105f1)
 [<img src="https://images.credly.com/size/340x340/images/73f8e523-ba86-449c-b08c-7fe100804525/edX_20Cybersecurity_20Basics_20V2.png" width="100">](https://www.credly.com/badges/7b2df42b-1d0b-496f-b71d-36bb689749ca)
 [<img src="https://images.credly.com/images/31161e97-2afe-4b28-9a63-0fc788de0f69/blob" width="100">](https://www.credly.com/badges/693956c7-01d9-433e-bac7-31cee50029be)
@@ -93,7 +91,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/e39d89ee-ed83-411a-87ca-1f069d4af314/image.png" width="100">](https://www.credly.com/badges/e5fd955c-5abb-4078-87a5-75b1a77fc0cb)
 [<img src="https://images.credly.com/images/f9737b5d-6c5d-412c-8137-36253f9fac2e/image.png" width="100">](https://www.credly.com/badges/f5ab19c4-2bf5-4f40-9e1b-1e728718a679)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/146757559" width="100">](https://badges.plus.columbia.edu/628968f3-f80f-4c2f-846a-7458ed9cf8dd#acc.ATKzsdZn)
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/146757559" width="100">](https://badges.plus.columbia.edu/d44ff15f-fc93-456e-ae0d-b4e3f4e91cc0#acc.MvUSE1iK)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/147589418" width="100">](https://badges.plus.columbia.edu/d44ff15f-fc93-456e-ae0d-b4e3f4e91cc0#acc.MvUSE1iK)
 
 
 
