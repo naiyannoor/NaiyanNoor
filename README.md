@@ -10,7 +10,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Naiyan+Noor!;+Welcome+to+My+Github+Profile!" />
     </a>
    </h1>
-</div>    
+</div>     
                              
 <h3 align="center">
 A passionate frontend developer from Bangladesh<img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></
