@@ -96,6 +96,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/148766479" width="100">](https://badges.plus.columbia.edu/d9183faf-19ff-4d8a-ab71-cb0397f0a2bf#acc.6G9uliWC)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/149678546" width="100">](https://badges.plus.columbia.edu/7a36f19b-3156-4a02-92a2-2772be697e7f)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/150839799" width="100">](https://badges.plus.columbia.edu/95146e46-a63f-41a5-893c-6d932a3eace4)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/151340479" width="100">](https://badges.plus.columbia.edu/ad506048-fcf4-4e3e-8e04-5cc381c7b6a8)
 
 
 
