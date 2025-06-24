@@ -38,7 +38,6 @@ img align
 naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 
 - ⚡  **MY BADGES** [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/151340479" width="20">](https://badges.plus.columbia.edu/ad506048-fcf4-4e3e-8e04-5cc381c7b6a8)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
