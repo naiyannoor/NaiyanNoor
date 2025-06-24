@@ -17,7 +17,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 h3>
   
       
-<img align
+<
+img align
 ="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
 <br>
 
@@ -43,8 +44,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" width="100">](https://www.credly.com/badges/a89dd473-2084-49fc-ad74-5e37c31e5a42)
 [<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100">](https://www.credly.com/badges/2e289e28-525a-4473-9ea0-9e47a02b656c)
 [<img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100">](https://www.credly.com/badges/c89dd326-71ec-4d3b-953b-3f4a2346fce2)
-[<img src=
-"https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="100">](https://www.credly.com/badges/43508b13-d3b9-4326-8738-302430a40b7e)
+[<img src="https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="100">](https://www.credly.com/badges/43508b13-d3b9-4326-8738-302430a40b7e)
 [<img src="https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="100">](https://www.credly.com/badges/4435b2f4-6fff-47fb-adaf-99df4323c702)
 [<img src="https://images.credly.com/images/1746bbfd-9e02-4bf7-97a0-925bfb63baa3/image.png" width="100">](https://www.credly.com/badges/30ae1cf5-b179-485a-a47f-fd4a88e8a395)
 [<img src="https://images.credly.com/images/304c123a-a6ab-47c0-b42a-d19b93c3ee4d/image.png" width="100">](https://www.credly.com/badges/d3befdbf-1a06-4107-bb1d-122291bf0ce2)
@@ -92,8 +92,8 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/size/340x340/images/ecb054ab-daa7-419a-bb01-90f9728be366/image.png" width="100">](https://www.credly.com/badges/53c2f090-4ac7-466a-a76e-3e39e3d35815)
 [<img src="https://images.credly.com/images/e39d89ee-ed83-411a-87ca-1f069d4af314/image.png" width="100">](https://www.credly.com/badges/e5fd955c-5abb-4078-87a5-75b1a77fc0cb)
 [<img src="https://images.credly.com/images/f9737b5d-6c5d-412c-8137-36253f9fac2e/image.png" width="100">](https://www.credly.com/badges/f5ab19c4-2bf5-4f40-9e1b-1e728718a679)
-[<img src="https://images.credly.com/size/340x340/images/a52f304e-6eb9-4475-b6a6-4e7df8434618/edX_20Cybersecurity_20Compliance_20and_20Framework_20V2.png" width="100">](https://www.credly.com/badges/07bcee7e-c5d6-4509-a486-34a9239b9731)
 [<img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="100">](https://www.credly.com/badges/48f2c988-3c82-4bc2-9ad9-66644001163c)
+[<img src="https://images.credly.com/size/340x340/images/a52f304e-6eb9-4475-b6a6-4e7df8434618/edX_20Cybersecurity_20Compliance_20and_20Framework_20V2.png" width="100">](https://www.credly.com/badges/07bcee7e-c5d6-4509-a486-34a9239b9731)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/146757559" width="100">](https://badges.plus.columbia.edu/628968f3-f80f-4c2f-846a-7458ed9cf8dd#acc.ATKzsdZn)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/147589418" width="100">](https://badges.plus.columbia.edu/d44ff15f-fc93-456e-ae0d-b4e3f4e91cc0#acc.MvUSE1iK)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/148766479" width="100">](https://badges.plus.columbia.edu/d9183faf-19ff-4d8a-ab71-cb0397f0a2bf#acc.6G9uliWC)
