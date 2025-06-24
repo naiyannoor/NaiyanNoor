@@ -17,7 +17,8 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 h3>
   
       
-<img align="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
+<img align
+="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
 <br>
 
 <h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif">
@@ -91,6 +92,7 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/size/340x340/images/ecb054ab-daa7-419a-bb01-90f9728be366/image.png" width="100">](https://www.credly.com/badges/53c2f090-4ac7-466a-a76e-3e39e3d35815)
 [<img src="https://images.credly.com/images/e39d89ee-ed83-411a-87ca-1f069d4af314/image.png" width="100">](https://www.credly.com/badges/e5fd955c-5abb-4078-87a5-75b1a77fc0cb)
 [<img src="https://images.credly.com/images/f9737b5d-6c5d-412c-8137-36253f9fac2e/image.png" width="100">](https://www.credly.com/badges/f5ab19c4-2bf5-4f40-9e1b-1e728718a679)
+[<img src="https://images.credly.com/size/340x340/images/a52f304e-6eb9-4475-b6a6-4e7df8434618/edX_20Cybersecurity_20Compliance_20and_20Framework_20V2.png" width="100">](https://www.credly.com/badges/07bcee7e-c5d6-4509-a486-34a9239b9731)
 [<img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="100">](https://www.credly.com/badges/48f2c988-3c82-4bc2-9ad9-66644001163c)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/146757559" width="100">](https://badges.plus.columbia.edu/628968f3-f80f-4c2f-846a-7458ed9cf8dd#acc.ATKzsdZn)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/147589418" width="100">](https://badges.plus.columbia.edu/d44ff15f-fc93-456e-ae0d-b4e3f4e91cc0#acc.MvUSE1iK)
