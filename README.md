@@ -17,14 +17,11 @@ A passionate frontend developer from Bangladesh<img align="center" alt="Coding" 
 h3>
   
       
-<
-img align
-="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
+<img align="right" alt="Coding" width="320" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/NR18.gif">
 <br>
 
 <h1 align="left">Naiyan Noor<img align="center" alt="Coding" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif">
 </h1>
-   
 <h5>Studied at Bangladesh Army University of Science and Technology -BAUST,Saidpur</h5>
 <p>BSc in Computer Science Engineering</p>
  
