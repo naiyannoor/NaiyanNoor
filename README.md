@@ -90,6 +90,8 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 [<img src="https://images.credly.com/images/f9737b5d-6c5d-412c-8137-36253f9fac2e/image.png" width="100">](https://www.credly.com/badges/f5ab19c4-2bf5-4f40-9e1b-1e728718a679)
 [<img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="100">](https://www.credly.com/badges/48f2c988-3c82-4bc2-9ad9-66644001163c)
 [<img src="https://images.credly.com/size/340x340/images/a52f304e-6eb9-4475-b6a6-4e7df8434618/edX_20Cybersecurity_20Compliance_20and_20Framework_20V2.png" width="100">](https://www.credly.com/badges/07bcee7e-c5d6-4509-a486-34a9239b9731)
+[<img src="https://images.credly.com/images/ccc3c962-876c-4842-bed9-55863143a6eb/image.png" width="100">](https://www.credly.com/badges/31640cbb-bff7-4a79-bb0f-b82a582ed86f)
+
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/146757559" width="100">](https://badges.plus.columbia.edu/628968f3-f80f-4c2f-846a-7458ed9cf8dd#acc.ATKzsdZn)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/147589418" width="100">](https://badges.plus.columbia.edu/d44ff15f-fc93-456e-ae0d-b4e3f4e91cc0#acc.MvUSE1iK)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/148766479" width="100">](https://badges.plus.columbia.edu/d9183faf-19ff-4d8a-ab71-cb0397f0a2bf#acc.6G9uliWC)
