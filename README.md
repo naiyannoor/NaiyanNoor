@@ -4,7 +4,7 @@
 </p>   
 <p align="left">   
  <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor"/> </p>
-<div>
+<div> 
     <h1 align="center"? 
      <a href="https://git.io/typing-svg"> 
         <img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Naiyan+Noor!;+Welcome+to+My+Github+Profile!" />
