@@ -1,4 +1,4 @@
-<img src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan150201018.gif">                    
+<img src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan150201018.gif">                      
 <p align="left">  
  <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" />                    
 </p>   
