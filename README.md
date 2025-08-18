@@ -1,6 +1,6 @@
 <img src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan150201018.gif">                      
 <p align="left">  
- <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" />                               
+ <img src="https://komarev.com/ghpvc/?username=naiyannoor&label=Profile%20views&color=0e75b6&style=flat" alt="naiyannoor" />                                
 </p>   
 <p align="left">    
  <a href="https://twitter.com/naiyannoor" target="blank"><img src="https://img.shields.io/twitter/follow/naiyannoor?logo=twitter&style=for-the-badge" alt="naiyannoor"/> </p>   
