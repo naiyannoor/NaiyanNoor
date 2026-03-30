@@ -42,12 +42,9 @@ naiyannoor@gmail.com//naiyan.noor@yahoo.co.uk**
 ## 🐍 Watch snake eating my github contributions
 ![snake gif](https://github.com/Naiyannoor/Naiyannoor/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
-
 <br>
 <br>
+
 
 
 <h3 align="left">Connect with me:</h3>
